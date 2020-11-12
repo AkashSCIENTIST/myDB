@@ -2,8 +2,8 @@
 
 TO IMPORT THE DATABASE 
 
-  import myDB
-  db = myDB.db([filename])
+  ```import myDB```
+  ```db = myDB.db([filename])```
   
 IF THE FILENAME NOT PROVIDED , BY DEFAULT IF TAKES "default.db" IN CURRENT DIRECTORY.
 THE FILENAME CAN BE OF ANY EXTENSION (EX: .db, .pickle, .json, SOME EXTENSIONS LIKE .in, .com ETC.)
