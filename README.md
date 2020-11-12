@@ -2,7 +2,8 @@
 
 TO IMPORT THE DATABASE 
 
-  ```import myDB \n```
+  ```import myDB```
+  
   ```db = myDB.db([filename])```
   
 IF THE FILENAME NOT PROVIDED , BY DEFAULT IF TAKES "default.db" IN CURRENT DIRECTORY.
