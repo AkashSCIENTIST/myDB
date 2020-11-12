@@ -1,5 +1,9 @@
 # myDB
 
+## COMMAND TO DOWNLOAD
+
+``` pip install https://github.com/AkashSCIENTIST/myDB.git```
+
 #### TO IMPORT THE DATABASE 
 
   ```import myDB```
@@ -18,6 +22,7 @@ KEY SHOULD BE A STRING & VALUE SHOULD BE A VALID PRIMITIVE PYTHON OBJECT
 #### GETING A VALUE :
 
   ```db.get([key])```
+  
   return a JSON object if the key exists, else return False
   
 #### SAVING A DICTIONARY :
