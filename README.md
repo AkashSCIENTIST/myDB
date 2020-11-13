@@ -2,7 +2,7 @@
 
 ## COMMAND TO DOWNLOAD
 
-``` pip install https://github.com/AkashSCIENTIST/myDB.git```
+``` pip install git+https://github.com/AkashSCIENTIST/myDB.git```
 
 #### TO IMPORT THE DATABASE 
 
@@ -23,7 +23,7 @@ KEY SHOULD BE A STRING & VALUE SHOULD BE A VALID PRIMITIVE PYTHON OBJECT
 
   ```db.get([key])```
   
-  return a JSON object if the key exists, else return False
+  return a dictionary object if the key exists, else return False
   
 #### SAVING A DICTIONARY :
 
@@ -33,11 +33,13 @@ KEY SHOULD BE A STRING & VALUE SHOULD BE A VALID PRIMITIVE PYTHON OBJECT
 
   ```db.get_all()```
 
-RETURN A JSON OBJECT OF THE DATABASE.
+RETURN A dictionary OBJECT OF THE DATABASE.
 
 #### REMOVING A DATA:
 
   ```db.remove([key])```
+  
+  returns False if the key does not exists
   
 #### CLEARING A ENTIRE DATABASE:
 
