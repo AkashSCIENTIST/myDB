@@ -2,7 +2,7 @@
 
 ## COMMAND TO DOWNLOAD
 
-``` pip install git+https://github.com/AkashSCIENTIST/myDB.git```
+##### download manually. install by pipwill be implemented soon.
 
 #### TO IMPORT THE DATABASE 
 
