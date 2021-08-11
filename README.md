@@ -2,7 +2,7 @@
 
 ## COMMAND TO DOWNLOAD
 
-##### download manually. install by pipwill be implemented soon.
+##### download manually. install by "pip" will be implemented soon.
 
 #### TO IMPORT THE DATABASE 
 
