@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/myDB/__init__.py
+src/myDB/myDB.py
+src/myDB.egg-info/PKG-INFO
+src/myDB.egg-info/SOURCES.txt
+src/myDB.egg-info/dependency_links.txt
+src/myDB.egg-info/top_level.txt
